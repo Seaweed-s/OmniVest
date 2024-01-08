@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BPCw942UbSxw6R7Qq0mzJVwHKnrkZUZE5W+aila+ECcbZCfmLlpjQW/FrqI335KeFdMsndFX0UEdKKM+T1NHmg==",
+  "success": true,
+  "projectFilePath": "F:\\Stuff\\Programming_Things\\OmniMod\\OmniModConnect\\Haptic Desktop\\OmniModConnect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seaweed\\.nuget\\packages\\inthehand.bluetoothle\\4.0.35\\inthehand.bluetoothle.4.0.35.nupkg.sha512",
+    "C:\\Users\\Seaweed\\.nuget\\packages\\lucheart.coreosc\\1.2.1\\lucheart.coreosc.1.2.1.nupkg.sha512",
+    "C:\\Users\\Seaweed\\.nuget\\packages\\meamod.dns\\1.0.70\\meamod.dns.1.0.70.nupkg.sha512",
+    "C:\\Users\\Seaweed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Seaweed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Seaweed\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+  ],
+  "logs": []
+}

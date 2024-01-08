@@ -1,0 +1,179 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OmniModConnect/1.0.0": {
+        "dependencies": {
+          "InTheHand.BluetoothLE": "4.0.35",
+          "LucHeart.CoreOSC": "1.2.1",
+          "MeaMod.DNS": "1.0.70",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "OmniModConnect.dll": {}
+        }
+      },
+      "InTheHand.BluetoothLE/4.0.35": {
+        "dependencies": {
+          "Linux.Bluetooth": "5.64.0"
+        },
+        "runtime": {
+          "lib/net7.0/InTheHand.BluetoothLE.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.35.1128"
+          }
+        }
+      },
+      "Linux.Bluetooth/5.64.0": {
+        "dependencies": {
+          "Tmds.DBus": "0.11.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Linux.Bluetooth.dll": {
+            "assemblyVersion": "5.64.0.0",
+            "fileVersion": "5.64.0.0"
+          }
+        }
+      },
+      "LucHeart.CoreOSC/1.2.1": {
+        "runtime": {
+          "lib/net7.0/LucHeart.CoreOSC.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        }
+      },
+      "MeaMod.DNS/1.0.70": {
+        "runtime": {
+          "lib/net5.0/MeaMod.DNS.dll": {
+            "assemblyVersion": "1.0.70.2032",
+            "fileVersion": "1.0.70.2032"
+          }
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.Reflection.Emit/4.7.0": {},
+      "System.Security.Principal.Windows/4.7.0": {},
+      "Tmds.DBus/0.11.0": {
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "6.0.0",
+          "System.Reflection.Emit": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Tmds.DBus.dll": {
+            "assemblyVersion": "0.11.0.0",
+            "fileVersion": "0.11.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OmniModConnect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InTheHand.BluetoothLE/4.0.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X0rev0/rk+kQKiP8smxgbt6CuDeXPEIzTdv/gwm5R0sqsxY2GglQjRWjnWqF1wC1MwwfnkDp922zNvF+c8GeyQ==",
+      "path": "inthehand.bluetoothle/4.0.35",
+      "hashPath": "inthehand.bluetoothle.4.0.35.nupkg.sha512"
+    },
+    "Linux.Bluetooth/5.64.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nY/oXDlRWhJJ9F4N7PWpV1CGaaDvzoFL/VPyUbcGlTWysErwFUzXGNxxkO8w4290/qv20IMeYPwVPDwQJjWhvg==",
+      "path": "linux.bluetooth/5.64.0",
+      "hashPath": "linux.bluetooth.5.64.0.nupkg.sha512"
+    },
+    "LucHeart.CoreOSC/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OyDPg+G1eNiwVW0UlE7TcP/NE+gaTXaFhS14zp9ljRcx173D7v4OVmzBIWdP2WoF/CiaURSplOhcD4FiTs4Aew==",
+      "path": "lucheart.coreosc/1.2.1",
+      "hashPath": "lucheart.coreosc.1.2.1.nupkg.sha512"
+    },
+    "MeaMod.DNS/1.0.70": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k5nkj8fpIipLKtX8LAQv0LwteOjFAR9IdXfkkWukhxcgPo/QOY/AG/xgI/s/v6DxuLBeYb5KVZrZE5Wu2O6f9w==",
+      "path": "meamod.dns/1.0.70",
+      "hashPath": "meamod.dns.1.0.70.nupkg.sha512"
+    },
+    "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UcSjPsst+DfAdJGVDsu346FX0ci0ah+lw3WRtn18NUwEqRt70HaOQ7lI72vy3+1LxtqI3T5GWwV39rQSrCzAeg==",
+      "path": "microsoft.bcl.asyncinterfaces/6.0.0",
+      "hashPath": "microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-arDBqTgFCyS0EvRV7O3MZturChstm50OJ0y9bDJvAcmEPJm0FFpFyjU/JLYyStNGGey081DvnQYlncNX5SJJGA==",
+      "path": "microsoft.extensions.logging.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
+      "path": "system.reflection.emit/4.7.0",
+      "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
+      "path": "system.security.principal.windows/4.7.0",
+      "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "Tmds.DBus/0.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Qv9U/Xc5da34dLofP30dYpHiKTVyGCNXu4UTjzRr+DoN/IX/jK64PaXL2/OepqRJDWeCtnhtW10FTI1VanBxHQ==",
+      "path": "tmds.dbus/0.11.0",
+      "hashPath": "tmds.dbus.0.11.0.nupkg.sha512"
+    }
+  }
+}

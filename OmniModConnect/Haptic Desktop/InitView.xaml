@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="OmniModConnect.InitView"
+			 xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+			 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+			 xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+			 xmlns:local="clr-namespace:OmniModConnect"
+			 mc:Ignorable="d" 
+			 d:DesignHeight="450" d:DesignWidth="800">
+	<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+
+
+        <Label x:Name="InitHeading" Foreground="#E1E1E1" FontSize="35" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.Row="0">Application Initialising</Label>
+        <TextBlock x:Name="InitContext" Foreground="#E1E1E1" FontSize="15" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="1" Padding="30">Sample Text</TextBlock>
+	</Grid>
+</UserControl>

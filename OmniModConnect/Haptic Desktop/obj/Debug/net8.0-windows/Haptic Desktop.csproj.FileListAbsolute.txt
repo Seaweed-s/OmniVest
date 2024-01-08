@@ -1,0 +1,23 @@
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\bin\Debug\net8.0-windows\Haptic Desktop.exe
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\bin\Debug\net8.0-windows\Haptic Desktop.deps.json
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\bin\Debug\net8.0-windows\Haptic Desktop.runtimeconfig.json
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\bin\Debug\net8.0-windows\Haptic Desktop.dll
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\bin\Debug\net8.0-windows\Haptic Desktop.pdb
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\bin\Debug\net8.0-windows\LucHeart.CoreOSC.dll
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop.csproj.AssemblyReference.cache
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\App.g.cs
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop_MarkupCompile.cache
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop_MarkupCompile.lref
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\MainWindow.baml
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop.g.resources
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop.GeneratedMSBuildEditorConfig.editorconfig
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop.AssemblyInfoInputs.cache
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop.AssemblyInfo.cs
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop.csproj.CoreCompileInputs.cache
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop.csproj.CopyComplete
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop.dll
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\refint\Haptic Desktop.dll
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop.pdb
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\Haptic Desktop.genruntimeconfig.cache
+F:\Stuff\Programming_Things\Haptic_Vest\Desktop App\Haptic Desktop\Haptic Desktop\obj\Debug\net8.0-windows\ref\Haptic Desktop.dll

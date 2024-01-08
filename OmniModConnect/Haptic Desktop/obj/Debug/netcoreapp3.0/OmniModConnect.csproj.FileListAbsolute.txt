@@ -1,0 +1,5 @@
+F:\Stuff\Programming_Things\OmniMod\OmniModConnect.old\Haptic Desktop\obj\Debug\netcoreapp3.0\OmniModConnect.csproj.AssemblyReference.cache
+F:\Stuff\Programming_Things\OmniMod\OmniModConnect.old\Haptic Desktop\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+F:\Stuff\Programming_Things\OmniMod\OmniModConnect.old\Haptic Desktop\obj\Debug\netcoreapp3.0\App.g.cs
+F:\Stuff\Programming_Things\OmniMod\OmniModConnect.old\Haptic Desktop\obj\Debug\netcoreapp3.0\OmniModConnect_MarkupCompile.cache
+F:\Stuff\Programming_Things\OmniMod\OmniModConnect.old\Haptic Desktop\obj\Debug\netcoreapp3.0\OmniModConnect_MarkupCompile.lref

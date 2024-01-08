@@ -1,0 +1,28 @@
+#include <Adafruit_NeoPixel.h>
+#include <USBCDC.h>
+
+#define NEOPIXEL_PIN 48
+#define NEOPIXEL_COUNT 1
+
+// Create a NeoPixel object
+Adafruit_NeoPixel neopixel = Adafruit_NeoPixel(NEOPIXEL_COUNT, NEOPIXEL_PIN, NEO_GRB + NEO_KHZ800);
+
+void setup() {
+  Serial.begin(115200);
+  // Initialize Neopixel
+  neopixel.begin();
+  neopixel.show(); // Initialize all pixels to 'off'
+}
+
+void loop() {
+  // Turn on Neopixel
+  neopixel.setPixelColor(0, neopixel.Color(255, 0, 0));  // Red color
+  neopixel.show();
+  Serial.println("Test");
+  delay(500);  // Wait for half a second
+
+  // Turn off Neopixel
+  neopixel.setPixelColor(0, neopixel.Color(0, 0, 0));  // Turn off
+  neopixel.show();
+  delay(500);  // Wait for half a second
+}
